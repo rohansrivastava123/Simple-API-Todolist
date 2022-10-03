@@ -1,0 +1,16 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.card{
+  background-color: antiquewhite;
+  width:200px;
+  margin:10px;
+  padding: 10px;
+}
+.cardsection{
+  display: flex;
+  gap:15px;
+  flex-wrap: wrap;
+}
